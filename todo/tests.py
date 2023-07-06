@@ -8,6 +8,7 @@ from todo.models import Task
 
 # Create your tests here.
 
+
 class SampleTestCase(TestCase):
 
     def test_sample1(self):
